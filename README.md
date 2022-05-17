@@ -22,11 +22,11 @@ No more turning to paid sites. Get all your work done absolutely free.
 
 ### Team : <strong>LINKERS</strong>
 
-1. [Udit Narayan kaushik](https://github.com/nandiniinj)<br>
-2. [Ujjwal Tyagi](https://github.com/Isha-1290)<br>
-3. [Upanshu Goswami](https://github.com/suhani3502)<br>
-4. [Vaishnav Mishra](https://github.com/jkc1-4)<br>
-5. [Vipul kansal](https://github.com/jkc1-4)<br>
+1. [Ujjwal Tyagi](https://github.com/ujjwaltyagi04)<br>
+2. [Udit Narayan Kaushik](https://github.com/Udit2214)<br>
+3. [Upanshu Goswami](https://github.com/UpanshuGoswami)<br>
+4. [Vaishnav Mishra](https://github.com/vai143)<br>
+5. [Vipul kansal](https://github.com/vipul-123456)<br>
 
 
-## [Click Here]() to view the Project.
+## [Click Here](https://ujjwaltyagi04.github.io/xlink.github.io/) to view the Project.
